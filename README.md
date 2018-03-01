@@ -13,7 +13,9 @@ Playing with LEDs on DCSD cables
 | `0xFA` | yellow and green ON |
 | `0xFB` | all LEDs ON |
 
-demo [here](https://www.youtube.com/watch?v=Mb5CwDhj2hg)
+### Demo
+[![demo_img](https://raw.githubusercontent.com/matteyeux/dcsd_led/master/demo.png)](https://www.youtube.com/watch?v=Mb5CwDhj2hg)
+
 ### Build
 
 First, install [libftdi](https://www.intra2net.com/en/developer/libftdi/index.php) then build with GCC:
